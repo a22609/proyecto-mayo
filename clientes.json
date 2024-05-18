@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Juan Pérez",
+        "email": "juan@example.com",
+        "telefono": "123456789"
+    },
+    {
+        "nombre": "María García",
+        "email": "maria@example.com",
+        "telefono": "987654321"
+    },
+    {
+        "nombre": "Carlos López",
+        "email": "carlos@example.com",
+        "telefono": "456123789"
+    },
+    {
+        "nombre": "Laura Fernández",
+        "email": "laura@example.com",
+        "telefono": "321654987"
+    },
+    {
+        "nombre": "Andrés Martínez",
+        "email": "andres@example.com",
+        "telefono": "789123456"
+    },
+    {
+        "nombre": "Elena Gómez",
+        "email": "elena@example.com",
+        "telefono": "654789123"
+    },
+    {
+        "nombre": "Jorge Ruiz",
+        "email": "jorge@example.com",
+        "telefono": "789456123"
+    },
+    {
+        "nombre": "Sofía Ramírez",
+        "email": "sofia@example.com",
+        "telefono": "654123789"
+    },
+    {
+        "nombre": "Pedro Sánchez",
+        "email": "pedro@example.com",
+        "telefono": "321987654"
+    },
+    {
+        "nombre": "Ana López",
+        "email": "ana@example.com",
+        "telefono": "987321654"
+    }
+]
